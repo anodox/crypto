@@ -1,2 +1,0 @@
-
-crypto prediction app .
